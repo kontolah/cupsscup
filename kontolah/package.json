@@ -1,6 +1,7 @@
 {
   "name": "kontolah",
   "version": "1.1.4",
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
